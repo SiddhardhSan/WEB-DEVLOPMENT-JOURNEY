@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    font-style: 'Garamond','Open Sans';
+    font-size: 1.1rem;
+    
+}
+header{
+    height: 4rem;
+    width:100rem;
+    color: #26667F;
+    background-color: #DDF4E7;
+    display:flex;
+    justify-content:center;
+    
+    
+    align-items: center;
+    font-family:'Georgia','Raleway';
+    
+
+}
+a{
+    text-decoration: none;
+    color:#DDF4E7;
+}
+nav{
+    height:2.3rem;
+    width:100rem;
+    display:flex;
+    justify-content: space-evenly;
+    align-items:center;
+
+    
+    background-color: #67C090;
+
+}
+body{
+    
+    height:45rem;
+    width:100rem;
+    
+    background-color: #DDF4E7;
+    color:#26667F;
+}
+.b1{
+    padding-left: 0.4rem;
+}
+#bh21{
+    margin-top:0.35rem;
+}
+#bp1{
+    margin-top:0.3rem;
+}
+#bp3{
+    margin-top:0.8rem;
+}
+#bp2{
+    margin-top:0.18rem;
+    color: black;
+    font-size:0.95rem;
+    margin-left:0.6rem;
+}
+#img1body{
+    margin-top:0.4rem;  
+    height:23rem;
+    width:43rem;
+}
