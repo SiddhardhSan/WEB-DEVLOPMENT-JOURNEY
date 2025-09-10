@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    font-style: 'Garamond','Open Sans';
+    font-size: 1.1rem;
+    color: whitesmoke;
+}
+#acp1{
+    height:4rem;
+    width:90rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top:1.25rem;
+    margin-bottom: 1rem;
+}
+body{
+    background-image:url(acimg1.webp) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.45); /* dark overlay */
+    background-blend-mode: multiply; /* or overlay, screen, etc. */
+}
+.acf1{
+    margin-left: 1rem;
+}
+.acf2{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+input{
+    color:black;
+}  
+#name1{
+    margin-left: 0.5rem;
+}
+#age1{
+    margin-left:1.35rem;
+}
+
