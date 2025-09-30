@@ -64,4 +64,13 @@ body{
     height:23rem;
     width:43rem;
 }
+.b2{
+    background-color: chartreuse;
+    color:black;
 
+}
+.newClass{
+    font-size: 2rem;
+    margin-top:1.5rem;
+    
+}
