@@ -6,7 +6,7 @@ let i=1;
 
 //simple
 
-
+/*
 mode.addEventListener("click",()=>{
     if(i%2!==0){
         document.querySelector("body").classList.add("light"); 
@@ -19,6 +19,16 @@ mode.addEventListener("click",()=>{
     }
 
 
+});
+*/
+
+/*toggle(className) means:
+  If the element doesn’t have that class → add it
+  If the element already has that class → remove i*/
+
+//optimized
+mode.addEventListener("click",()=>{
+    document.querySelector("body").classList.toggle("dark")
 });
 
 
