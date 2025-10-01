@@ -4,6 +4,7 @@
     font-size: 1.1rem;
     
 }
+
 header{
     height: 4rem;
     width:90rem;
@@ -33,6 +34,16 @@ nav{
     background-color: #67C090;
 
 }
+#theme{
+    background-color: #67C090;
+    border: 2px solid black;
+    border-radius: 18px;
+    color:#DDF4E7;
+}
+#theme:hover{
+    background-color: #03de69;
+    transform: scale(1.05);
+}
 body{
     
     height:45rem;
@@ -40,6 +51,14 @@ body{
     
     background-color: #DDF4E7;
     color:#26667F;
+}
+.light{
+    background-color:#DDF4E7 ;
+    color:black;
+}
+.dark{
+    background-color: black;
+    color:white;
 }
 .b1{
     padding-left: 0.4rem;
